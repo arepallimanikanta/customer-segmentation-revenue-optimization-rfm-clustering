@@ -17,6 +17,6 @@ I built a complete data analytics project using SQL, Python, and Power BI to ana
 SQL | Python | Power BI
 
 📁 GitHub Repository:
-(Add your GitHub link here)
+https://github.com/arepallimanikanta/customer-segmentation-revenue-optimization-rfm-clustering
 
 #DataAnalytics #Python #SQL #PowerBI #MachineLearning #Projects
