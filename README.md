@@ -1,22 +1,36 @@
-🚀 Completed End-to-End Customer Segmentation Project!
+# 📊 Customer Segmentation using RFM & Clustering
 
-I built a complete data analytics project using SQL, Python, and Power BI to analyze customer behavior and segment users based on RFM analysis and clustering.
+## 🔍 Project Overview
 
-🔍 Key Highlights:
-• Performed data extraction and joins using SQL
-• Applied RFM (Recency, Frequency, Monetary) analysis
-• Implemented K-Means clustering for customer segmentation
-• Built an interactive Power BI dashboard
+This project performs end-to-end customer segmentation using SQL, Python, and Power BI to identify high-value customers and improve business decision-making.
 
-📊 Key Insights:
-• VIP customers contribute majority of revenue
-• Small percentage of customers drive most sales (Pareto principle)
-• Identified high-value and low-value customer segments
+## 🛠 Tools Used
 
-🛠 Tools Used:
-SQL | Python | Power BI
+* SQL (MySQL)
+* Python (Pandas, Scikit-learn)
+* Power BI
 
-📁 GitHub Repository:
-https://github.com/arepallimanikanta/customer-segmentation-revenue-optimization-rfm-clustering
+## 📊 Key Steps
 
-#DataAnalytics #Python #SQL #PowerBI #MachineLearning #Projects
+* Data extraction and joins using SQL
+* RFM (Recency, Frequency, Monetary) analysis
+* Customer segmentation using K-Means clustering
+* Dashboard creation in Power BI
+
+## 💡 Key Insights
+
+* VIP customers contribute majority of revenue
+* A small percentage of customers drive most sales (Pareto principle)
+* Many customers are low-value and need targeted marketing
+
+## 📁 Files Included
+
+* SQL Queries
+* Python Notebook
+* Dataset
+* Power BI Dashboard
+* Screenshots
+
+## 📌 Conclusion
+
+This project demonstrates how data-driven customer segmentation can help businesses improve retention and maximize revenue.
